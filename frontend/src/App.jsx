@@ -1,6 +1,6 @@
 import './App.css'
 import MovieCard from './components/MovieCard'
-
+import Home from './components/pages/Home'
 function App() {
   //conditional rendering
   //const movieNumber = 1;
@@ -17,7 +17,7 @@ function App() {
                                     )}
                                     */}
 
-
+<Home></Home>
 
 
     </>
